@@ -24,7 +24,7 @@ sAfe steP is a smart assistive footwear system designed to enhance mobility and 
 
 *PIC-1* :
 
-
+![Image](https://github.com/user-attachments/assets/e1033ca4-ca19-42ea-bc5a-a4be2239ee2c)
 
 *PIC-2* :
 
